@@ -15,5 +15,6 @@
 ## License
 This repository is licensed under the BSD 3-clause "New" or "Revised" License, see LICENSE.  
   
-## Demo Video  
-https://youtu.be/6SRd9djcl-A
+## Demo Video
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6SRd9djcl-A/0.jpg)](http://www.youtube.com/watch?v=6SRd9djcl-A)
+

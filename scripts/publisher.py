@@ -25,7 +25,7 @@ class control(object):
 		elif(s == "e"):
 			command = 5
 		elif(s == "q"):
-			command =6
+			command = 6
 
 		control = Int16()
 		control.data = command 
